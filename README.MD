@@ -9,7 +9,7 @@ Identify inefficient high-cost / low-ROAS keywords
 Reallocate a portion of the budget to better-performing keywords
 Estimate the projected improvement in ROAS & CPA after reallocation
 This project is often used to demonstrate skills for Data Engineer, BI Engineer, and Marketing Analytics roles.
-🛠 Technologies Used
+Technologies Used
 Python
 Pandas
 NumPy
